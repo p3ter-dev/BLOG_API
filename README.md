@@ -13,6 +13,7 @@ A simple blog API built with Express.js and EJS.
 - Express.js
 - EJS
 - Body-parser
+- Axios
 - Other dependencies as needed
 
 ## Installation

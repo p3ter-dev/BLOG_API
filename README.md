@@ -22,18 +22,13 @@ A simple blog API built with Express.js and EJS.
    ```sh
    git clone https://github.com/p3ter-dev/BLOG_API.git
    ```
-
-2. Navigate to the project directory:
-   ```sh
-   cd Blog API Project
-   ```
-
-3. Install dependencies:
+   
+2. Install dependencies:
    ```sh
    npm install
    ```
 
-4. Start the server:
+3. Start the server:
    ```sh
    npm start
    ```

@@ -53,9 +53,6 @@ A simple blog API built with Express.js and EJS.
 - Create post page
 - Edit post page
 
-## License
-This project is licensed under the MIT License.
-
 ## Author
 - Peter Kinfe
 - GitHub: peter(https://github.com/p3ter-dev)

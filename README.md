@@ -6,7 +6,7 @@ A simple blog API built with Express.js and EJS.
 - Create, read, update, and delete blog posts
 - EJS templating for rendering views
 - RESTful API endpoints
-- Middleware for error handling and authentication (if implemented)
+- Middleware for error handling
 
 ## Technologies Used
 - Node.js
